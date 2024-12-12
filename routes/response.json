@@ -1,0 +1,1331 @@
+[
+  {
+    "value": {
+      "placeOfBirth": "EMBASSY",
+      "registrationTime": "ON_TIME",
+      "notifiedBy": {
+        "_id": "6156e1070aa59a28bdf564ad",
+        "accessType": "CR_EMBASSY",
+        "dateOfBirth": "04/05/1939",
+        "facilityId": "61aa2a91a081fcf45e6a7375",
+        "facilityType": "EMBASSY",
+        "nin": "924-7372-320",
+        "phoneNumber": "991212121",
+        "postNames": "Laurent",
+        "sex": "MALE",
+        "surName": "RWAMAKAMBA"
+      },
+      "approvedBy": {
+        "_id": "6156e1070aa59a28bdf564ad",
+        "accessType": "CR_EMBASSY",
+        "dateOfBirth": "04/05/1939",
+        "facilityId": "61aa2a91a081fcf45e6a7375",
+        "facilityType": "EMBASSY",
+        "nin": "924-7372-320",
+        "phoneNumber": "991212121",
+        "postNames": "Laurent",
+        "sex": "MALE",
+        "surName": "RWAMAKAMBA"
+      },
+      "motherDetails": {
+        "surName": "KAJYAGAHE",
+        "postNames": "Veronique",
+        "dateOfBirth": "1933-01-01T00:00:00.000Z",
+        "documentNumber": "00126491",
+        "nid": "00126491",
+        "nin": "298-4212-451",
+        "occupation": {
+          "_id": "6030c03c2ae51f30a8f3aa7f",
+          "code": "02",
+          "name": "Non-commissioned armed forces officers",
+          "kinyarwandaName": "Abofisiye baciriritse"
+        },
+        "profession": {
+          "_id": "6030c0f22ae51f5660f3b688",
+          "code": "9820",
+          "name": "Undifferentiated service-producing activities of private households for own use",
+          "kinyarwandaName": "Imirimo ya serivisi  ikorerwa mu ngo ikagirira umumaro abagize urugo"
+        },
+        "levelOfEducation": "3",
+        "insurance": ""
+      },
+      "childDetails": [
+        {
+          "disability": [],
+          "surName": "Testing Abroad ",
+          "postNames": "Place of Birth ",
+          "sex": "MALE",
+          "dateOfBirth": "2024-11-04T16:13:00.000Z",
+          "proofOfBirth": "proof/birth/embassy/61aa2a91a081fcf45e6a7375/birth-3ce6fa85-1364-44b3-b1fd-985eb0cf7568.pdf",
+          "proofOfBirthDocument": "HOSPITAL_BIRTH_CERTIFICATE",
+          "nin": "468-6249-339",
+          "applicationNumber": "13380403",
+          "nationality": "RW",
+          "updatedAt": "2024-11-21T11:15:45.994Z",
+          "createdAt": "2024-11-21T11:15:45.994Z",
+          "certificate": "birth/embassy/672a27f338a8d094be7de29a17321877421440.pdf"
+        }
+      ],
+      "declarantDetails": {
+        "surName": "KAJYAGAHE",
+        "postNames": "Veronique",
+        "dateOfBirth": "1933-01-01T00:00:00.000Z",
+        "maritalStatus": "SINGLE",
+        "citizenStatus": "0",
+        "sex": "FEMALE",
+        "nationality": "RW",
+        "documentNumber": "00126491",
+        "domicileCountry": "Rwanda",
+        "relationship": "MOTHER",
+        "domicileDistrict": "Rwamagana",
+        "domicileProvince": "Iburasirazuba",
+        "domicileSector": "Kigabiro",
+        "domicileCell": "Nyagasenyi",
+        "domicileVillage": "Gahonogo",
+        "residenceAddress": "",
+        "occupation": {
+          "_id": "6030c03c2ae51f30a8f3aa7f",
+          "code": "02",
+          "name": "Non-commissioned armed forces officers",
+          "kinyarwandaName": "Abofisiye baciriritse"
+        },
+        "email": "",
+        "phoneNumber": "",
+        "documentType": "NID_APPLICATION_NUMBER",
+        "profession": {
+          "_id": "6030c0f22ae51f5660f3b688",
+          "code": "9820",
+          "name": "Undifferentiated service-producing activities of private households for own use",
+          "kinyarwandaName": "Imirimo ya serivisi  ikorerwa mu ngo ikagirira umumaro abagize urugo"
+        },
+        "fatherName": "Ndegeya",
+        "motherName": "Nyiramuhire",
+        "nid": "00126491",
+        "applicationNumber": "00126491",
+        "nin": "298-4212-451",
+        "dateOfIssue": "08/04/2008",
+        "placeOfIssue": "Kigabiro / Rwamagana",
+        "countryOfBirth": "RW",
+        "birthCountry": "Rwanda",
+        "civilStatus": "S",
+        "villageId": "0501050301",
+        "applicantType": "1",
+        "spouse": "",
+        "domicileAddress": "",
+        "domicileCity": "",
+        "residenceCountry": "South Africa",
+        "domicileState": ""
+      },
+      "facilityCode": "060101"
+    }
+  },
+  {
+    "value:": {
+      "placeOfBirth": "COMMUNITY",
+      "registrationTime": "ON_TIME",
+      "notifiedBy": {
+        "_id": "63e7447604b74d4df03e2640",
+        "accessType": "CR_SECTOR",
+        "dateOfBirth": "10/07/1986",
+        "facilityId": "5ef868caccaa0a24182b7085",
+        "facilityType": "COMMUNITY",
+        "nin": "652-4508-261",
+        "phoneNumber": "0783322887",
+        "postNames": "Euphrasie",
+        "sex": "FEMALE",
+        "surName": "NYIRAFARANGA"
+      },
+      "approvedBy": {
+        "_id": "63e7447604b74d4df03e2640",
+        "accessType": "CR_SECTOR",
+        "dateOfBirth": "10/07/1986",
+        "facilityId": "5ef868caccaa0a24182b7085",
+        "facilityType": "COMMUNITY",
+        "nin": "652-4508-261",
+        "phoneNumber": "0783322887",
+        "postNames": "Euphrasie",
+        "sex": "FEMALE",
+        "surName": "NYIRAFARANGA"
+      },
+      "motherDetails": {
+        "surName": "MUKANDEKEZI",
+        "postNames": "Jyerurina",
+        "dateOfBirth": "1931-09-03T00:00:00.000Z",
+        "documentNumber": "01375585",
+        "nid": "01375585",
+        "nin": "538-7644-797",
+        "occupation": {
+          "_id": "60992fc9264d251310cb459c",
+          "code": "1003",
+          "name": "fksjdf",
+          "kinyarwandaName": "jkfsdk"
+        },
+        "profession": {
+          "_id": "6277793367b16e0f02e79061",
+          "code": "10000000000000",
+          "name": "Not Applicable",
+          "kinyarwandaName": "Ntibimureba"
+        },
+        "levelOfEducation": "3",
+        "insurance": {
+          "_id": "5fb499b677fa2d5c0fc64cd9",
+          "name": "Private",
+          "type": "Life insurance"
+        }
+      },
+      "childDetails": [
+        {
+          "disability": [],
+          "surName": "HATANGA",
+          "postNames": "Louis",
+          "sex": "MALE",
+          "dateOfBirth": "2024-10-22T14:22:00.000Z",
+          "weight": null,
+          "height": null,
+          "nin": "351-3505-791",
+          "applicationNumber": "13380404",
+          "proofOfBirth": "",
+          "proofOfBirthDocument": "",
+          "nationality": "RW",
+          "updatedAt": "2024-11-21T12:28:50.451Z",
+          "createdAt": "2024-11-21T12:28:50.451Z",
+          "certificate": "birth/community/673f25ea38a8d011bc7de2ad17321921297530.pdf"
+        }
+      ],
+      "declarantDetails": {
+        "surName": "NTAGANZWA",
+        "postNames": "Eric",
+        "dateOfBirth": "1980-01-08T00:00:00.000Z",
+        "maritalStatus": "MARRIED",
+        "citizenStatus": "0",
+        "sex": "MALE",
+        "nationality": "RW",
+        "documentNumber": "1198080006115128",
+        "domicileCountry": "Rwanda",
+        "relationship": "OTHER",
+        "domicileDistrict": "Nyarugenge",
+        "domicileProvince": "Umujyi wa Kigali",
+        "domicileSector": "Nyarugenge",
+        "domicileCell": "Kiyovu",
+        "domicileVillage": "Isibo",
+        "residenceAddress": "",
+        "occupation": {
+          "_id": "60992fc9264d251310cb459c",
+          "code": "1003",
+          "name": "fksjdf",
+          "kinyarwandaName": "jkfsdk"
+        },
+        "email": "",
+        "phoneNumber": "",
+        "documentType": "NID",
+        "profession": {
+          "_id": "603d26c2e3ca4b265886b762",
+          "code": "10002",
+          "name": "Testing_ProfessioN",
+          "kinyarwandaName": "k_Testing_ProfessioN"
+        },
+        "fatherName": "Nsanzubukire Edouard",
+        "motherName": "Muhoracyeye Beatrice",
+        "nid": "1198080006115128",
+        "applicationNumber": "03457983",
+        "nin": "620-8882-149",
+        "dateOfIssue": "28/11/2011",
+        "placeOfIssue": "Gitega / Nyarugenge",
+        "countryOfBirth": "RW",
+        "birthCountry": "Rwanda",
+        "civilStatus": "M",
+        "villageId": "0101090309",
+        "applicantType": "1",
+        "spouse": "DUKUZUMUREMYI Dina",
+        "domicileAddress": "",
+        "domicileCity": "",
+        "residenceCountry": "RW",
+        "residenceProvince": {
+          "_id": "5ef8571cccaa0a24182b7027",
+          "name": "Kigali City",
+          "code": "01"
+        },
+        "residenceSector": {
+          "_id": "5ef868caccaa0a24182b7077",
+          "name": "Nyarugenge",
+          "code": "010109"
+        },
+        "residenceCell": {
+          "_id": "5ef86d1bccaa0a24182b7239",
+          "name": "Kiyovu",
+          "code": "01010903"
+        },
+        "residenceVillage": {
+          "_id": "5ef87211ccaa0a24182bc992",
+          "name": "Imena",
+          "code": "0101090304"
+        },
+        "domicileState": ""
+      },
+      "facilityCode": "010213"
+    }
+  },
+  {
+    "value": {
+      "placeOfBirth": "COMMUNITY",
+      "registrationTime": "LATE",
+      "notifiedBy": {
+        "_id": "63e7447604b74d4df03e2640",
+        "accessType": "CR_SECTOR",
+        "dateOfBirth": "10/07/1986",
+        "facilityId": "5ef868caccaa0a24182b7085",
+        "facilityType": "COMMUNITY",
+        "nin": "652-4508-261",
+        "phoneNumber": "0783322887",
+        "postNames": "Euphrasie",
+        "sex": "FEMALE",
+        "surName": "NYIRAFARANGA"
+      },
+      "approvedBy": {
+        "_id": "63e7447604b74d4df03e2640",
+        "accessType": "CR_SECTOR",
+        "dateOfBirth": "10/07/1986",
+        "facilityId": "5ef868caccaa0a24182b7085",
+        "facilityType": "COMMUNITY",
+        "nin": "652-4508-261",
+        "phoneNumber": "0783322887",
+        "postNames": "Euphrasie",
+        "sex": "FEMALE",
+        "surName": "NYIRAFARANGA"
+      },
+      "motherDetails": {
+        "surName": "",
+        "postNames": "",
+        "dateOfBirth": null,
+        "documentNumber": "",
+        "nid": null,
+        "nin": null,
+        "occupation": "",
+        "profession": "",
+        "levelOfEducation": "",
+        "insurance": ""
+      },
+      "childDetails": [
+        {
+          "disability": [],
+          "surName": "Halala",
+          "postNames": "Kely",
+          "sex": "MALE",
+          "dateOfBirth": "2023-12-01T10:06:00.000Z",
+          "weight": null,
+          "height": null,
+          "nin": "644-6563-733",
+          "applicationNumber": "13380405",
+          "proofOfBirth": "",
+          "proofOfBirthDocument": "",
+          "nationality": "UN",
+          "updatedAt": "2024-11-22T08:12:28.461Z",
+          "createdAt": "2024-11-22T08:12:28.461Z",
+          "certificate": "birth/community/67403b7a38a8d0578b7de2b017322631463440.pdf"
+        }
+      ],
+      "declarantDetails": {
+        "surName": "NTAGANZWA",
+        "postNames": "Eric",
+        "dateOfBirth": "1980-01-08T00:00:00.000Z",
+        "maritalStatus": "MARRIED",
+        "citizenStatus": "0",
+        "sex": "MALE",
+        "nationality": "RW",
+        "documentNumber": "1198080006115128",
+        "domicileCountry": "Rwanda",
+        "relationship": "OTHER",
+        "domicileDistrict": "Nyarugenge",
+        "domicileProvince": "Umujyi wa Kigali",
+        "domicileSector": "Nyarugenge",
+        "domicileCell": "Kiyovu",
+        "domicileVillage": "Isibo",
+        "residenceAddress": "",
+        "occupation": {
+          "_id": "62bd65d54082476387ed9023",
+          "code": "10001",
+          "name": "University Student",
+          "kinyarwandaName": "Umunyeshuli Muri Kaminuza"
+        },
+        "email": "",
+        "phoneNumber": "",
+        "documentType": "NID",
+        "profession": {
+          "_id": "62bd66ba4082473f28ed9025",
+          "code": "10001",
+          "name": "University Student",
+          "kinyarwandaName": "Umunyeshuli Wa Kaminuza"
+        },
+        "fatherName": "Nsanzubukire Edouard",
+        "motherName": "Muhoracyeye Beatrice",
+        "nid": "1198080006115128",
+        "applicationNumber": "03457983",
+        "nin": "620-8882-149",
+        "dateOfIssue": "28/11/2011",
+        "placeOfIssue": "Gitega / Nyarugenge",
+        "countryOfBirth": "RW",
+        "birthCountry": "Rwanda",
+        "civilStatus": "M",
+        "villageId": "0101090309",
+        "applicantType": "1",
+        "spouse": "DUKUZUMUREMYI Dina",
+        "domicileAddress": "",
+        "domicileCity": "",
+        "residenceCountry": "RW",
+        "residenceProvince": {
+          "_id": "5ef8571cccaa0a24182b7027",
+          "name": "Kigali City",
+          "code": "01"
+        },
+        "residenceSector": {
+          "_id": "5ef868caccaa0a24182b7089",
+          "name": "Gatenga",
+          "code": "010302"
+        },
+        "residenceCell": {
+          "_id": "5ef86d1bccaa0a24182b728e",
+          "name": "Gatenga",
+          "code": "01030201"
+        },
+        "residenceVillage": {
+          "_id": "5ef87211ccaa0a24182bcbc9",
+          "name": "Gatenga",
+          "code": "0103020103"
+        },
+        "domicileState": ""
+      },
+      "facilityCode": "010213"
+    }
+  },
+  {
+    "value": {
+      "placeOfBirth": "HF",
+      "registrationTime": "ON_TIME",
+      "notifiedBy": {
+        "_id": "630f5841d0dee2aa6774e1d3",
+        "accessType": "CR_HF",
+        "dateOfBirth": "01/01/1934",
+        "facilityId": "5fbfd58e77fa2d8eb4c64ecf",
+        "facilityType": "HF",
+        "nin": "481-7922-853",
+        "phoneNumber": "0731646400",
+        "postNames": "Marie",
+        "sex": "FEMALE",
+        "surName": "NYIRARUKUNDO"
+      },
+      "approvedBy": {
+        "_id": "630f5841d0dee2aa6774e1d3",
+        "accessType": "CR_HF",
+        "dateOfBirth": "01/01/1934",
+        "facilityId": "5fbfd58e77fa2d8eb4c64ecf",
+        "facilityType": "HF",
+        "nin": "481-7922-853",
+        "phoneNumber": "0731646400",
+        "postNames": "Marie",
+        "sex": "FEMALE",
+        "surName": "NYIRARUKUNDO"
+      },
+      "motherDetails": {
+        "surName": "UMULISA",
+        "postNames": "Esther",
+        "dateOfBirth": "1995-12-12T00:00:00.000Z",
+        "documentNumber": "1199570043596146",
+        "nid": "1199570043596146",
+        "nin": "507-4705-192",
+        "occupation": {
+          "_id": "60992fc9264d251310cb459c",
+          "code": "1003",
+          "name": "fksjdf",
+          "kinyarwandaName": "jkfsdk"
+        },
+        "profession": {
+          "_id": "603d26c2e3ca4b265886b762",
+          "code": "10002",
+          "name": "Testing_ProfessioN",
+          "kinyarwandaName": "k_Testing_ProfessioN"
+        },
+        "levelOfEducation": "3",
+        "insurance": {
+          "_id": "5fb499d677fa2d462ec64cda",
+          "name": "NONE",
+          "type": "N/A"
+        }
+      },
+      "childDetails": [
+        {
+          "disability": [],
+          "surName": "ABIMANA",
+          "postNames": "Joseph ",
+          "sex": "MALE",
+          "dateOfBirth": "2024-11-25T10:46:00.000Z",
+          "weight": 5000,
+          "height": 50,
+          "nin": "205-0618-505",
+          "applicationNumber": "13380406",
+          "nurse": {
+            "_id": "5fc0d8c377fa2d6542c64f63",
+            "sex": "FEMALE",
+            "facilityId": [
+              "5fbf42da77fa2d4548c64d6a",
+              "5fbfd58e77fa2d8eb4c64ecf"
+            ],
+            "status": "ACTIVE",
+            "logs": [],
+            "documentType": "NID",
+            "documentNumber": "1195470022149074",
+            "surName": "UWAMBAJIMANA",
+            "postNames": "Madeleine",
+            "dateOfBirth": "01/01/1954",
+            "maritalStatus": "WIDOWED",
+            "nationality": "RW",
+            "domicileCountry": "Rwanda",
+            "domicileDistrict": "Karongi",
+            "domicileProvince": "Iburengerazuba",
+            "domicileSector": "Murambi",
+            "domicileCell": "Mubuga",
+            "domicileVillage": "Nyabivumu",
+            "licenseNumber": "000546555",
+            "qualification": "Nurse",
+            "email": "umus@gmail.com",
+            "phoneNumber": "0788215452",
+            "photo": null,
+            "issueNumber": "1",
+            "dateOfIssue": "29/07/2008",
+            "dateOfExpiry": "Invalid date",
+            "placeOfIssue": "Murambi / Karongi",
+            "applicationNumber": "05979955",
+            "nin": "673-1106-800",
+            "nid": "1195470022149074",
+            "fatherName": "Nkezabera",
+            "motherName": "Mukagango",
+            "birthCountry": "Rwanda",
+            "countryOfBirth": "RW",
+            "villageId": "0301060105",
+            "civilStatus": "W",
+            "spouse": null,
+            "applicantType": "1",
+            "createdAt": "2020-11-27T10:45:23.563Z",
+            "updatedAt": "2020-11-27T11:00:22.839Z"
+          },
+          "attendant": {
+            "_id": "5fbf86a977fa2d57c4c64e1a",
+            "sex": "MALE",
+            "facilityId": [
+              "5fbf5ed177fa2d4248c64d95",
+              "5fbfd58e77fa2d8eb4c64ecf"
+            ],
+            "status": "ACTIVE",
+            "logs": [],
+            "documentType": "NID_APPLICATION_NUMBER",
+            "documentNumber": "1194080026999004",
+            "surName": "NZITABAKUZE",
+            "postNames": "Canisius",
+            "dateOfBirth": "01/01/1940",
+            "maritalStatus": "SINGLE",
+            "nationality": "RW",
+            "domicileCountry": "Rwanda",
+            "domicileDistrict": "Rwamagana",
+            "domicileProvince": "Iburasirazuba",
+            "domicileSector": "Nyakaliro",
+            "domicileCell": "Bihembe",
+            "domicileVillage": "Butare",
+            "licenseNumber": "3121212122",
+            "qualification": "Doctor",
+            "email": "nzitabakuze@gmail.com",
+            "phoneNumber": "0738855222",
+            "photo": "/users/NID_1194080026999004.jpg",
+            "issueNumber": "1",
+            "dateOfIssue": "03/02/2010",
+            "dateOfExpiry": "Invalid date",
+            "placeOfIssue": "Nyakaliro / Rwamagana",
+            "applicationNumber": "00030871",
+            "nin": "346-5575-428",
+            "nid": "1194080026999004",
+            "fatherName": "Ntabwoba",
+            "motherName": "Nyiraburima",
+            "birthCountry": "Rwanda",
+            "countryOfBirth": "RW",
+            "villageId": "0501120103",
+            "civilStatus": "S",
+            "spouse": "",
+            "applicantType": "1",
+            "createdAt": "2020-11-26T10:42:49.197Z",
+            "updatedAt": "2024-03-30T19:09:21.290Z"
+          },
+          "nationality": "RW",
+          "updatedAt": "2024-11-26T08:50:46.222Z",
+          "createdAt": "2024-11-26T08:50:46.222Z",
+          "certificate": "birth/hf/67458adc38a8d071627de2b617326110444200.pdf"
+        }
+      ],
+      "declarantDetails": {
+        "surName": "UMULISA",
+        "postNames": "Esther",
+        "dateOfBirth": "1995-12-12T00:00:00.000Z",
+        "maritalStatus": "SINGLE",
+        "citizenStatus": "0",
+        "sex": "FEMALE",
+        "nationality": "RW",
+        "documentNumber": "1199570043596146",
+        "domicileCountry": "Rwanda",
+        "relationship": "MOTHER",
+        "domicileDistrict": "Huye",
+        "domicileProvince": "Amajyepfo",
+        "domicileSector": "Ngoma",
+        "domicileCell": "Butare",
+        "domicileVillage": "Taba",
+        "residenceAddress": "",
+        "occupation": {
+          "_id": "60992fc9264d251310cb459c",
+          "code": "1003",
+          "name": "fksjdf",
+          "kinyarwandaName": "jkfsdk"
+        },
+        "email": "",
+        "phoneNumber": "",
+        "documentType": "NID",
+        "profession": {
+          "_id": "603d26c2e3ca4b265886b762",
+          "code": "10002",
+          "name": "Testing_ProfessioN",
+          "kinyarwandaName": "k_Testing_ProfessioN"
+        },
+        "fatherName": "Karekezi Jean",
+        "motherName": "Mukamusoni Rose",
+        "nid": "1199570043596146",
+        "applicationNumber": "04587354",
+        "nin": "507-4705-192",
+        "dateOfIssue": "12/07/2018",
+        "placeOfIssue": null,
+        "countryOfBirth": "CD",
+        "birthCountry": "DRC",
+        "civilStatus": "S",
+        "villageId": "0204090110",
+        "applicantType": "1",
+        "spouse": null,
+        "domicileAddress": "",
+        "domicileCity": "",
+        "residenceCountry": "RW",
+        "residenceProvince": {
+          "_id": "5ef8571cccaa0a24182b7029",
+          "name": "Western Province",
+          "code": "03"
+        },
+        "residenceSector": {
+          "_id": "5ef868caccaa0a24182b7123",
+          "name": "Mukamira",
+          "code": "030407"
+        },
+        "residenceCell": {
+          "_id": "5ef86d1bccaa0a24182b75d1",
+          "name": "Kanyove",
+          "code": "03040703"
+        },
+        "residenceVillage": {
+          "_id": "5ef87216ccaa0a24182be187",
+          "name": "Rwaseka",
+          "code": "0304070304"
+        },
+        "domicileState": ""
+      },
+      "facilityCode": "0365"
+    }
+  },
+  {
+    "value": {
+      "placeOfBirth": "COMMUNITY",
+      "registrationTime": "LATE",
+      "notifiedBy": {
+        "_id": "614c4cff07379f6fa8967302",
+        "accessType": "CR_SECTOR",
+        "dateOfBirth": "01/01/1933",
+        "facilityId": "5ef868caccaa0a24182b707a",
+        "facilityType": "COMMUNITY",
+        "nin": "613-7006-810",
+        "phoneNumber": "0790719962",
+        "postNames": "Pascasie",
+        "sex": "FEMALE",
+        "surName": "KANTARAMA"
+      },
+      "approvedBy": {
+        "_id": "614c4cff07379f6fa8967302",
+        "accessType": "CR_SECTOR",
+        "dateOfBirth": "01/01/1933",
+        "facilityId": "5ef868caccaa0a24182b707a",
+        "facilityType": "COMMUNITY",
+        "nin": "613-7006-810",
+        "phoneNumber": "0790719962",
+        "postNames": "Pascasie",
+        "sex": "FEMALE",
+        "surName": "KANTARAMA"
+      },
+      "motherDetails": {
+        "surName": "NYIRABIBANZA",
+        "postNames": "Florence",
+        "dateOfBirth": "1918-01-01T00:00:00.000Z",
+        "documentNumber": "1191870000745094",
+        "nid": "1191870000745094",
+        "nin": "549-9494-347",
+        "occupation": {
+          "_id": "60992fc9264d251310cb459c",
+          "code": "1003",
+          "name": "fksjdf",
+          "kinyarwandaName": "jkfsdk"
+        },
+        "profession": {
+          "_id": "603d26c2e3ca4b265886b762",
+          "code": "10002",
+          "name": "Testing_ProfessioN",
+          "kinyarwandaName": "k_Testing_ProfessioN"
+        },
+        "levelOfEducation": "1",
+        "insurance": ""
+      },
+      "childDetails": [
+        {
+          "disability": [],
+          "surName": "Bucura",
+          "postNames": "Bwanjye",
+          "sex": "FEMALE",
+          "dateOfBirth": "2024-10-06T11:00:00.000Z",
+          "weight": null,
+          "height": null,
+          "nin": "249-9845-610",
+          "applicationNumber": "13380407",
+          "proofOfBirth": "",
+          "proofOfBirthDocument": "",
+          "nationality": "RW",
+          "updatedAt": "2024-11-26T09:05:41.401Z",
+          "createdAt": "2024-11-26T09:05:41.401Z",
+          "certificate": "birth/community/67458e1138a8d072397de2b917326119407240.pdf"
+        }
+      ],
+      "declarantDetails": {
+        "surName": "NYIRABIBANZA",
+        "postNames": "Florence",
+        "dateOfBirth": "1918-01-01T00:00:00.000Z",
+        "maritalStatus": "SINGLE",
+        "citizenStatus": "0",
+        "sex": "FEMALE",
+        "nationality": "RW",
+        "documentNumber": "1191870000745094",
+        "domicileCountry": "Rwanda",
+        "relationship": "MOTHER",
+        "domicileDistrict": "Rwamagana",
+        "domicileProvince": "Iburasirazuba",
+        "domicileSector": "Mwulire",
+        "domicileCell": "Bicumbi",
+        "domicileVillage": "Manene",
+        "residenceAddress": "",
+        "occupation": {
+          "_id": "60992fc9264d251310cb459c",
+          "code": "1003",
+          "name": "fksjdf",
+          "kinyarwandaName": "jkfsdk"
+        },
+        "email": "",
+        "phoneNumber": "",
+        "documentType": "NID",
+        "profession": {
+          "_id": "603d26c2e3ca4b265886b762",
+          "code": "10002",
+          "name": "Testing_ProfessioN",
+          "kinyarwandaName": "k_Testing_ProfessioN"
+        },
+        "fatherName": "Bitariho",
+        "motherName": "Nyiramukungu",
+        "nid": "1191870000745094",
+        "applicationNumber": "00085383",
+        "nin": "549-9494-347",
+        "dateOfIssue": "11/10/2008",
+        "placeOfIssue": "Gitega / Nyarugenge",
+        "countryOfBirth": "RW",
+        "birthCountry": "Rwanda",
+        "civilStatus": "S",
+        "villageId": "0501110104",
+        "applicantType": "1",
+        "spouse": null,
+        "domicileAddress": "",
+        "domicileCity": "",
+        "residenceCountry": "RW",
+        "residenceProvince": {
+          "_id": "5ef8571cccaa0a24182b7029",
+          "name": "Western Province",
+          "code": "03"
+        },
+        "residenceSector": {
+          "_id": "5ef868caccaa0a24182b7123",
+          "name": "Mukamira",
+          "code": "030407"
+        },
+        "residenceCell": {
+          "_id": "5ef86d1bccaa0a24182b75d1",
+          "name": "Kanyove",
+          "code": "03040703"
+        },
+        "residenceVillage": {
+          "_id": "5ef87216ccaa0a24182be187",
+          "name": "Rwaseka",
+          "code": "0304070304"
+        },
+        "domicileState": ""
+      },
+      "facilityCode": "010202"
+    }
+  },
+  {
+    "value": {
+      "placeOfBirth": "EMBASSY",
+      "registrationTime": "ON_TIME",
+      "notifiedBy": {
+        "_id": "650166ad3de78c9aa8fcf99f",
+        "accessType": "CR_EMBASSY",
+        "dateOfBirth": "01/01/1934",
+        "facilityId": "62edfa64ebe51d46cd0f9f48",
+        "facilityType": "EMBASSY",
+        "nin": "925-1733-201",
+        "phoneNumber": "0788909090",
+        "postNames": "Virginie",
+        "sex": "FEMALE",
+        "surName": "NYIRAMYANDAGARA"
+      },
+      "approvedBy": {
+        "_id": "650166ad3de78c9aa8fcf99f",
+        "accessType": "CR_EMBASSY",
+        "dateOfBirth": "01/01/1934",
+        "facilityId": "62edfa64ebe51d46cd0f9f48",
+        "facilityType": "EMBASSY",
+        "nin": "925-1733-201",
+        "phoneNumber": "0788909090",
+        "postNames": "Virginie",
+        "sex": "FEMALE",
+        "surName": "NYIRAMYANDAGARA"
+      },
+      "motherDetails": {
+        "surName": "UMWALI",
+        "postNames": "Nadine",
+        "dateOfBirth": "1987-12-04T00:00:00.000Z",
+        "documentNumber": "1198770111857181",
+        "nid": "1198770111857181",
+        "nin": "207-4520-473",
+        "occupation": {
+          "_id": "6030c03c2ae51f30a8f3aa7f",
+          "code": "02",
+          "name": "Non-commissioned armed forces officers",
+          "kinyarwandaName": "Abofisiye baciriritse"
+        },
+        "profession": {
+          "_id": "6030c0f22ae51f3a5df3b68a",
+          "code": "99",
+          "name": "Activities of extraterritorial organizations and bodies",
+          "kinyarwandaName": "Imirimo y'amahuriro n'imiryango mpuzamahanga"
+        },
+        "levelOfEducation": "2",
+        "insurance": ""
+      },
+      "childDetails": [
+        {
+          "disability": [],
+          "surName": "MUNYANA",
+          "postNames": "Vestine ",
+          "sex": "MALE",
+          "dateOfBirth": "2024-11-25T11:26:00.000Z",
+          "proofOfBirth": "proof/birth/embassy/62edfa64ebe51d46cd0f9f48/birth-386118bb-7cac-4c08-a957-d9fadb04c70e.pdf",
+          "proofOfBirthDocument": "HOSPITAL_BIRTH_CERTIFICATE",
+          "nin": "865-6570-192",
+          "applicationNumber": "13380408",
+          "nationality": "RW",
+          "updatedAt": "2024-11-26T09:34:07.233Z",
+          "createdAt": "2024-11-26T09:34:07.233Z",
+          "certificate": "birth/embassy/6745945738a8d0725f7de2bf17326136464910.pdf"
+        }
+      ],
+      "declarantDetails": {
+        "surName": "UMWALI",
+        "postNames": "Nadine",
+        "dateOfBirth": "1987-12-04T00:00:00.000Z",
+        "maritalStatus": "SINGLE",
+        "citizenStatus": "0",
+        "sex": "FEMALE",
+        "nationality": "RW",
+        "documentNumber": "1198770111857181",
+        "domicileCountry": "Rwanda",
+        "relationship": "MOTHER",
+        "domicileDistrict": "Burera",
+        "domicileProvince": "Amajyaruguru",
+        "domicileSector": "Kinoni",
+        "domicileCell": "Ntaruka",
+        "domicileVillage": "Gikoro",
+        "residenceAddress": "",
+        "occupation": {
+          "_id": "6030c03c2ae51f30a8f3aa7f",
+          "code": "02",
+          "name": "Non-commissioned armed forces officers",
+          "kinyarwandaName": "Abofisiye baciriritse"
+        },
+        "email": "",
+        "phoneNumber": "",
+        "documentType": "NID",
+        "profession": {
+          "_id": "6030c0f22ae51f3a5df3b68a",
+          "code": "99",
+          "name": "Activities of extraterritorial organizations and bodies",
+          "kinyarwandaName": "Imirimo y'amahuriro n'imiryango mpuzamahanga"
+        },
+        "fatherName": "Rushayigi Innocent",
+        "motherName": "Mukantabana Jacqueline",
+        "nid": "1198770111857181",
+        "applicationNumber": "07761528",
+        "nin": "207-4520-473",
+        "dateOfIssue": "10/01/2019",
+        "placeOfIssue": null,
+        "countryOfBirth": "RW",
+        "birthCountry": "Rwanda",
+        "civilStatus": "S",
+        "villageId": "0404090402",
+        "applicantType": "1",
+        "spouse": null,
+        "domicileAddress": "",
+        "domicileCity": "",
+        "residenceCountry": "Turkey",
+        "domicileState": ""
+      },
+      "facilityCode": "060804"
+    }
+  },
+  {
+    "value": {
+      "placeOfBirth": "EMBASSY",
+      "registrationTime": "ON_TIME",
+      "notifiedBy": {
+        "_id": "650166ad3de78c9aa8fcf99f",
+        "accessType": "CR_EMBASSY",
+        "dateOfBirth": "01/01/1934",
+        "facilityId": "62edfa64ebe51d46cd0f9f48",
+        "facilityType": "EMBASSY",
+        "nin": "925-1733-201",
+        "phoneNumber": "0788909090",
+        "postNames": "Virginie",
+        "sex": "FEMALE",
+        "surName": "NYIRAMYANDAGARA"
+      },
+      "approvedBy": {
+        "_id": "650166ad3de78c9aa8fcf99f",
+        "accessType": "CR_EMBASSY",
+        "dateOfBirth": "01/01/1934",
+        "facilityId": "62edfa64ebe51d46cd0f9f48",
+        "facilityType": "EMBASSY",
+        "nin": "925-1733-201",
+        "phoneNumber": "0788909090",
+        "postNames": "Virginie",
+        "sex": "FEMALE",
+        "surName": "NYIRAMYANDAGARA"
+      },
+      "motherDetails": {
+        "surName": "UMWALI",
+        "postNames": "Nadine",
+        "dateOfBirth": "1987-12-04T00:00:00.000Z",
+        "documentNumber": "1198770111857181",
+        "nid": "1198770111857181",
+        "nin": "207-4520-473",
+        "occupation": {
+          "_id": "6030c03c2ae51f30a8f3aa7f",
+          "code": "02",
+          "name": "Non-commissioned armed forces officers",
+          "kinyarwandaName": "Abofisiye baciriritse"
+        },
+        "profession": {
+          "_id": "6030c0f22ae51f3a5df3b68a",
+          "code": "99",
+          "name": "Activities of extraterritorial organizations and bodies",
+          "kinyarwandaName": "Imirimo y'amahuriro n'imiryango mpuzamahanga"
+        },
+        "levelOfEducation": "2",
+        "insurance": ""
+      },
+      "childDetails": [
+        {
+          "disability": [],
+          "surName": "MUNYANA",
+          "postNames": "Vestine ",
+          "sex": "MALE",
+          "dateOfBirth": "2024-11-25T11:26:00.000Z",
+          "proofOfBirth": "proof/birth/embassy/62edfa64ebe51d46cd0f9f48/birth-386118bb-7cac-4c08-a957-d9fadb04c70e.pdf",
+          "proofOfBirthDocument": "HOSPITAL_BIRTH_CERTIFICATE",
+          "nin": "865-6570-192",
+          "applicationNumber": "13380409",
+          "nationality": "RW",
+          "updatedAt": "2024-11-26T09:36:54.777Z",
+          "createdAt": "2024-11-26T09:36:54.777Z",
+          "certificate": "birth/embassy/6745945738a8d0725f7de2bf17326138137900.pdf"
+        }
+      ],
+      "declarantDetails": {
+        "surName": "UMWALI",
+        "postNames": "Nadine",
+        "dateOfBirth": "1987-12-04T00:00:00.000Z",
+        "maritalStatus": "SINGLE",
+        "citizenStatus": "0",
+        "sex": "FEMALE",
+        "nationality": "RW",
+        "documentNumber": "1198770111857181",
+        "domicileCountry": "Rwanda",
+        "relationship": "MOTHER",
+        "domicileDistrict": "Burera",
+        "domicileProvince": "Amajyaruguru",
+        "domicileSector": "Kinoni",
+        "domicileCell": "Ntaruka",
+        "domicileVillage": "Gikoro",
+        "residenceAddress": "",
+        "occupation": {
+          "_id": "6030c03c2ae51f30a8f3aa7f",
+          "code": "02",
+          "name": "Non-commissioned armed forces officers",
+          "kinyarwandaName": "Abofisiye baciriritse"
+        },
+        "email": "",
+        "phoneNumber": "",
+        "documentType": "NID",
+        "profession": {
+          "_id": "6030c0f22ae51f3a5df3b68a",
+          "code": "99",
+          "name": "Activities of extraterritorial organizations and bodies",
+          "kinyarwandaName": "Imirimo y'amahuriro n'imiryango mpuzamahanga"
+        },
+        "fatherName": "Rushayigi Innocent",
+        "motherName": "Mukantabana Jacqueline",
+        "nid": "1198770111857181",
+        "applicationNumber": "07761528",
+        "nin": "207-4520-473",
+        "dateOfIssue": "10/01/2019",
+        "placeOfIssue": null,
+        "countryOfBirth": "RW",
+        "birthCountry": "Rwanda",
+        "civilStatus": "S",
+        "villageId": "0404090402",
+        "applicantType": "1",
+        "spouse": null,
+        "domicileAddress": "",
+        "domicileCity": "",
+        "residenceCountry": "Turkey",
+        "domicileState": ""
+      },
+      "facilityCode": "060804"
+    }
+  },
+  {
+    "value": {
+      "placeOfDeath": "HF",
+      "registrationTime": "ON_TIME",
+      "notifiedBy": {
+        "_id": "630f5841d0dee2aa6774e1d3",
+        "accessType": "CR_HF",
+        "dateOfBirth": "01/01/1934",
+        "facilityId": "5fbfd58e77fa2d8eb4c64ecf",
+        "facilityType": "HF",
+        "nin": "481-7922-853",
+        "phoneNumber": "0731646400",
+        "postNames": "Marie",
+        "sex": "FEMALE",
+        "surName": "NYIRARUKUNDO"
+      },
+      "approvedBy": {
+        "_id": "630f5841d0dee2aa6774e1d3",
+        "accessType": "CR_HF",
+        "dateOfBirth": "01/01/1934",
+        "facilityId": "5fbfd58e77fa2d8eb4c64ecf",
+        "facilityType": "HF",
+        "nin": "481-7922-853",
+        "phoneNumber": "0731646400",
+        "postNames": "Marie",
+        "sex": "FEMALE",
+        "surName": "NYIRARUKUNDO"
+      },
+      "deceasedDetails": {
+        "surName": "UMULISA",
+        "postNames": "Christella",
+        "mannerOfDeath": {
+          "_id": "5efa012cf7ff32698fc42dad",
+          "name": "Disease"
+        },
+        "dateOfDeath": "2024-11-25T10:25:00.000Z",
+        "documentType": "NID",
+        "applicationNumber": "03999810",
+        "nin": "430-6470-294",
+        "nid": "1199770122469078",
+        "documentNumber": "1199770122469078",
+        "nationality": "RW",
+        "sex": "FEMALE",
+        "age": null
+      },
+      "declarantDetails": {
+        "surName": "SIBOMANA",
+        "postNames": "VALENS",
+        "dateOfBirth": "1996-01-01T00:00:00.000Z",
+        "maritalStatus": "SINGLE",
+        "sex": "MALE",
+        "nationality": "RW",
+        "documentNumber": "1199680159831162",
+        "domicileCountry": "Rwanda",
+        "domicileDistrict": "Huye",
+        "domicileProvince": "Amajyepfo",
+        "domicileSector": "Kinazi",
+        "domicileCell": "Byinza",
+        "domicileVillage": "Rwerinka",
+        "residenceAddress": "J",
+        "phoneNumber": "",
+        "email": "",
+        "occupation": {
+          "_id": "6030c03c2ae51f30a8f3aa7f",
+          "code": "02",
+          "name": "Non-commissioned armed forces officers",
+          "kinyarwandaName": "Abofisiye baciriritse"
+        },
+        "profession": {
+          "_id": "6030c0f22ae51f3a5df3b68a",
+          "code": "99",
+          "name": "Activities of extraterritorial organizations and bodies",
+          "kinyarwandaName": "Imirimo y'amahuriro n'imiryango mpuzamahanga"
+        },
+        "documentType": "NID",
+        "applicationNumber": "04088829",
+        "nin": "633-2319-158",
+        "nid": "1199680159831162",
+        "fatherName": "Sibomana",
+        "motherName": "Mugwaneza",
+        "birthCountry": "Rwanda",
+        "countryOfBirth": "RW",
+        "villageId": "0204050104",
+        "spouse": "",
+        "residenceCountry": "RW",
+        "domicileState": "",
+        "domicileCity": "",
+        "domicileAddress": "",
+        "residenceProvince": {
+          "_id": "5ef8571cccaa0a24182b7029",
+          "name": "Western Province",
+          "code": "03"
+        },
+        "residenceSector": {
+          "_id": "5ef868caccaa0a24182b7123",
+          "name": "Mukamira",
+          "code": "030407"
+        },
+        "residenceCell": {
+          "_id": "5ef86d1bccaa0a24182b75d1",
+          "name": "Kanyove",
+          "code": "03040703"
+        },
+        "residenceVillage": {
+          "_id": "5ef87216ccaa0a24182be187",
+          "name": "Rwaseka",
+          "code": "0304070304"
+        }
+      },
+      "facilityCode": "0365"
+    }
+  },
+  {
+    "value": {
+      "placeOfDeath": "COMMUNITY",
+      "registrationTime": "ON_TIME",
+      "notifiedBy": {
+        "_id": "614c4cff07379f6fa8967302",
+        "accessType": "CR_SECTOR",
+        "dateOfBirth": "01/01/1933",
+        "facilityId": "5ef868caccaa0a24182b707a",
+        "facilityType": "COMMUNITY",
+        "nin": "613-7006-810",
+        "phoneNumber": "0790719962",
+        "postNames": "Pascasie",
+        "sex": "FEMALE",
+        "surName": "KANTARAMA"
+      },
+      "approvedBy": {
+        "_id": "614c4cff07379f6fa8967302",
+        "accessType": "CR_SECTOR",
+        "dateOfBirth": "01/01/1933",
+        "facilityId": "5ef868caccaa0a24182b707a",
+        "facilityType": "COMMUNITY",
+        "nin": "613-7006-810",
+        "phoneNumber": "0790719962",
+        "postNames": "Pascasie",
+        "sex": "FEMALE",
+        "surName": "KANTARAMA"
+      },
+      "deceasedDetails": {
+        "surName": "BAZIMAZIKISE",
+        "postNames": "Godefroid Munongo",
+        "mannerOfDeath": {
+          "_id": "5efa012cf7ff32698fc42dad",
+          "name": "Disease"
+        },
+        "dateOfDeath": "2024-11-25T05:09:00.000Z",
+        "documentType": "NID",
+        "applicationNumber": "00088882",
+        "nin": "898-3408-645",
+        "nid": "1191880000746075",
+        "documentNumber": "1191880000746075",
+        "nationality": "RW",
+        "sex": "MALE",
+        "age": null
+      },
+      "declarantDetails": {
+        "surName": "NYIRABIBANZA",
+        "postNames": "Florence",
+        "dateOfBirth": "1918-01-01T00:00:00.000Z",
+        "maritalStatus": "SINGLE",
+        "sex": "FEMALE",
+        "nationality": "RW",
+        "documentNumber": "1191870000745094",
+        "domicileCountry": "Rwanda",
+        "domicileDistrict": "Rwamagana",
+        "domicileProvince": "Iburasirazuba",
+        "domicileSector": "Mwulire",
+        "domicileCell": "Bicumbi",
+        "domicileVillage": "Manene",
+        "residenceAddress": "",
+        "phoneNumber": "",
+        "email": "",
+        "occupation": {
+          "_id": "6030c03c2ae51f30a8f3aa7f",
+          "code": "02",
+          "name": "Non-commissioned armed forces officers",
+          "kinyarwandaName": "Abofisiye baciriritse"
+        },
+        "profession": {
+          "_id": "6030c0f22ae51f3a5df3b68a",
+          "code": "99",
+          "name": "Activities of extraterritorial organizations and bodies",
+          "kinyarwandaName": "Imirimo y'amahuriro n'imiryango mpuzamahanga"
+        },
+        "documentType": "NID",
+        "applicationNumber": "00085383",
+        "nin": "549-9494-347",
+        "nid": "1191870000745094",
+        "fatherName": "Bitariho",
+        "motherName": "Nyiramukungu",
+        "birthCountry": "Rwanda",
+        "countryOfBirth": "RW",
+        "villageId": "0501110104",
+        "spouse": "",
+        "residenceCountry": "RW",
+        "domicileState": "",
+        "domicileCity": "",
+        "domicileAddress": "",
+        "residenceProvince": {
+          "_id": "5ef8571cccaa0a24182b7029",
+          "name": "Western Province",
+          "code": "03"
+        },
+        "residenceSector": {
+          "_id": "5ef868caccaa0a24182b7123",
+          "name": "Mukamira",
+          "code": "030407"
+        },
+        "residenceCell": {
+          "_id": "5ef86d1bccaa0a24182b75d1",
+          "name": "Kanyove",
+          "code": "03040703"
+        },
+        "residenceVillage": {
+          "_id": "5ef87216ccaa0a24182be187",
+          "name": "Rwaseka",
+          "code": "0304070304"
+        }
+      },
+      "facilityCode": "010202"
+    }
+  },
+  {
+    "value": {
+      "placeOfDeath": "EMBASSY",
+      "registrationTime": "ON_TIME",
+      "notifiedBy": {
+        "_id": "650166ad3de78c9aa8fcf99f",
+        "accessType": "CR_EMBASSY",
+        "dateOfBirth": "01/01/1934",
+        "facilityId": "62edfa64ebe51d46cd0f9f48",
+        "facilityType": "EMBASSY",
+        "nin": "925-1733-201",
+        "phoneNumber": "0788909090",
+        "postNames": "Virginie",
+        "sex": "FEMALE",
+        "surName": "NYIRAMYANDAGARA"
+      },
+      "approvedBy": {
+        "_id": "650166ad3de78c9aa8fcf99f",
+        "accessType": "CR_EMBASSY",
+        "dateOfBirth": "01/01/1934",
+        "facilityId": "62edfa64ebe51d46cd0f9f48",
+        "facilityType": "EMBASSY",
+        "nin": "925-1733-201",
+        "phoneNumber": "0788909090",
+        "postNames": "Virginie",
+        "sex": "FEMALE",
+        "surName": "NYIRAMYANDAGARA"
+      },
+      "deceasedDetails": {
+        "surName": "HABUMUGISHA",
+        "postNames": "Gervais",
+        "mannerOfDeath": {
+          "_id": "5efa012cf7ff32698fc42dad",
+          "name": "Disease"
+        },
+        "dateOfDeath": "2024-11-25T07:38:00.000Z",
+        "documentType": "NID",
+        "applicationNumber": "07551785",
+        "nin": "275-2719-660",
+        "nid": "1199080117591295",
+        "documentNumber": "1199080117591295",
+        "nationality": "RW",
+        "sex": "MALE"
+      },
+      "declarantDetails": {
+        "surName": "BAVUGABWOSE",
+        "postNames": "Denys",
+        "dateOfBirth": "1912-01-01T00:00:00.000Z",
+        "maritalStatus": "SINGLE",
+        "sex": "MALE",
+        "nationality": "RW",
+        "documentNumber": "1191280000207095",
+        "domicileCountry": "Rwanda",
+        "domicileDistrict": "Rwamagana",
+        "domicileProvince": "Iburasirazuba",
+        "domicileSector": "Nyakaliro",
+        "domicileCell": "Munini",
+        "domicileVillage": "Nyiramitemeri",
+        "residenceAddress": "",
+        "phoneNumber": "",
+        "email": "",
+        "occupation": {
+          "_id": "6030c03c2ae51f30a8f3aa7f",
+          "code": "02",
+          "name": "Non-commissioned armed forces officers",
+          "kinyarwandaName": "Abofisiye baciriritse"
+        },
+        "profession": {
+          "_id": "6030c0f22ae51f3a5df3b68a",
+          "code": "99",
+          "name": "Activities of extraterritorial organizations and bodies",
+          "kinyarwandaName": "Imirimo y'amahuriro n'imiryango mpuzamahanga"
+        },
+        "documentType": "NID",
+        "applicationNumber": "00105835",
+        "nin": "531-7051-644",
+        "nid": "1191280000207095",
+        "fatherName": "Mburahose Albert",
+        "motherName": "Bugenimana Sophie",
+        "birthCountry": "Rwanda",
+        "countryOfBirth": "RW",
+        "villageId": "0501120406",
+        "spouse": "",
+        "residenceCountry": "Turkey",
+        "domicileState": "",
+        "domicileCity": "",
+        "domicileAddress": ""
+      },
+      "facilityCode": "060804"
+    }
+  }
+]
